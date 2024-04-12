@@ -1,0 +1,23 @@
+1. touch:  Create a new file.
+	Syntax: touch file1.txt
+
+ 2.  cat : Concatenate files and print to stdout.
+ 	Syntax :  cat > file1.txt
+ 	
+ 3.   cp: Copy files 
+ 	Syntax: cp file1.txt file2.txt  // file1 is source.. file2 is destination
+ 	
+ 4.  mv: Move files or rename files
+ 	Syntax: mv file1.txt file2.txt
+ 	
+ 5.  rm: Remove files and directories
+ 	Syntax: rm file1.txt
+ 
+ 6.  mkdir: Make a directory
+ 	Syntax:  mkdir dir1
+ 	
+ 7.   rmdir: Remove a directory
+	Syntax: rmdir dir1
+ 	
+ 8.  pwd: Print the present working directory
+ 	Syntax: pwd 
